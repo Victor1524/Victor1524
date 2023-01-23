@@ -1,7 +1,7 @@
 ## Ola! Eu sou o Victor
 
-- 🎓 Hoje estudo front-end
-- 🤓 focado em react-native
+- 🎓 Hoje estudo back-end
+- 🤓 focado em banco de dados
 - 😄 pronouns ele/dele
 
 <div>
