@@ -1,4 +1,4 @@
-## Ola! Eu sou o Victor
+## Ola! Eu sou o João
 
 - 🎓 Hoje estudo back-end
 - 🤓 focado em banco de dados
